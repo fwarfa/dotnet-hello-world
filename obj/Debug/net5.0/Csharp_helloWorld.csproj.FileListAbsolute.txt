@@ -1,0 +1,15 @@
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/bin/Debug/net5.0/Csharp_helloWorld.deps.json
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/bin/Debug/net5.0/Csharp_helloWorld.runtimeconfig.json
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/bin/Debug/net5.0/Csharp_helloWorld.runtimeconfig.dev.json
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/bin/Debug/net5.0/Csharp_helloWorld.dll
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/bin/Debug/net5.0/ref/Csharp_helloWorld.dll
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/bin/Debug/net5.0/Csharp_helloWorld.pdb
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.csproj.AssemblyReference.cache
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.AssemblyInfoInputs.cache
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.AssemblyInfo.cs
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.csproj.CoreCompileInputs.cache
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.dll
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/ref/Csharp_helloWorld.dll
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.pdb
+/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/Debug/net5.0/Csharp_helloWorld.genruntimeconfig.cache
