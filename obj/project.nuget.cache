@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJpGZ46+LSYJ0G4HTbt+yotiacKSXOkMlJzBLbCMPfB/Jb/Vz3cKhctI8K+1sJfMWXaJn/ywhRjl+HXgrbv/kQ==",
+  "dgSpecHash": "1S/N1/OOqNRTjY0OCrRCnTT6Gs8UXPa9xGNocUrKn/8O6kaUobZ2fJhf/UaDOq/Klc95+UZLgywh+AoeIzmy8Q==",
   "success": true,
-  "projectFilePath": "/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/Csharp_helloWorld.csproj",
+  "projectFilePath": "/Users/fwarfa/Prime/Tier 3/dotnet-hello-world/Csharp_helloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/Csharp_helloWorld.csproj": {}
+    "/Users/fwarfa/Prime/Tier 3/dotnet-hello-world/Csharp_helloWorld.csproj": {}
   },
   "projects": {
-    "/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/Csharp_helloWorld.csproj": {
+    "/Users/fwarfa/Prime/Tier 3/dotnet-hello-world/Csharp_helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/Csharp_helloWorld.csproj",
+        "projectUniqueName": "/Users/fwarfa/Prime/Tier 3/dotnet-hello-world/Csharp_helloWorld.csproj",
         "projectName": "Csharp_helloWorld",
-        "projectPath": "/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/Csharp_helloWorld.csproj",
+        "projectPath": "/Users/fwarfa/Prime/Tier 3/dotnet-hello-world/Csharp_helloWorld.csproj",
         "packagesPath": "/Users/fwarfa/.nuget/packages/",
-        "outputPath": "/Users/fwarfa/Prime/Tier 3/Csharp_helloWorld/obj/",
+        "outputPath": "/Users/fwarfa/Prime/Tier 3/dotnet-hello-world/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
